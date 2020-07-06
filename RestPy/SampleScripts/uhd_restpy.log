@@ -1,0 +1,22 @@
+2020-07-03 00:22:27 [uhd_restpy.connection] [INFO] using python version 3.8.3 (default, May 17 2020, 18:15:42) 
+[GCC 10.1.0]
+2020-07-03 00:22:27 [uhd_restpy.connection] [INFO] using ixnetwork-restpy version 1.0.53
+2020-07-03 00:22:27 [uhd_restpy.connection] [WARNING] Verification of certificates is disabled
+2020-07-03 00:22:27 [uhd_restpy.connection] [INFO] Determining the platform and rest_port using the 10.36.78.190 address...
+2020-07-03 00:22:27 [uhd_restpy.connection] [WARNING] Unable to connect to http://10.36.78.190:443.
+2020-07-03 00:22:27 [uhd_restpy.connection] [INFO] Connection established to `https://10.36.78.190:443 on linux`
+2020-07-03 00:22:39 [uhd_restpy.connection] [INFO] Using IxNetwork api server version 9.00.1920.111
+2020-07-03 00:22:39 [uhd_restpy.connection] [INFO] User info IxNetwork/ixn-web-v1-855d55b989-lf79m/admin-29-27847
+2020-07-03 00:22:49 [uhd_restpy.connection] [INFO] Session ID/Session Name: 29 loadJsonConfigFile
+2020-07-03 00:22:49 [uhd_restpy.connection] [INFO] Loading config file: bgp_ngpf_8.50.json
+2020-07-03 00:23:20 [uhd_restpy.connection] [INFO] Assigning Ports
+2020-07-03 00:23:24 [uhd_restpy.connection] [INFO] Adding test port hosts
+2020-07-03 00:23:24 [uhd_restpy.connection] [INFO] PortMapAssistant._connect_chassis duration: 0.00016808509826660156secs
+2020-07-03 00:23:24 [uhd_restpy.connection] [INFO] Connecting virtual ports to test ports using location
+2020-07-03 00:23:26 [uhd_restpy.connection] [INFO] PortMapAssistant._connect_ports duration: 2.327982187271118secs
+2020-07-03 00:23:26 [uhd_restpy.connection] [INFO] Checking virtual port link states
+2020-07-03 00:23:38 [uhd_restpy.connection] [INFO] PortMapAssistant._check_link_state duration: 11.816813230514526secs
+2020-07-03 00:23:38 [uhd_restpy.connection] [INFO] Verify protocol sessions
+
+2020-07-03 00:24:38 [uhd_restpy.connection] [INFO] Protocols Summary
+2020-07-03 00:25:01 [uhd_restpy.connection] [INFO] Flow Statistics
